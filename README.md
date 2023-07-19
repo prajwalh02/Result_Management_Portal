@@ -6,9 +6,9 @@ interface and real-life usability.
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Project Overview](#ProjectOverview)
-- [Technologies Used](#TechnologiesUsed)
-- [Getting Started](#GettingStarted)
+- [Project Overview](#Project-Overview)
+- [Technologies Used](#Technologies-Used)
+- [Getting Started](#Getting-Started)
 - [Features](#Features)
 
 
