@@ -8,8 +8,8 @@ interface and real-life usability.
 - [Introduction](#Introduction)
 - [Project Overview](#ProjectOverview)
 - [Technologies Used](#TechnologiesUsed)
-- [Getting Started](GettingStarted)
-- [Features](Features)
+- [Getting Started](#GettingStarted)
+- [Features](#Features)
 
 
 ## Introduction
